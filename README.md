@@ -4,9 +4,9 @@ Det här är repot innehåller kursmaterial tillhörande introduktionen i att jo
 
 Är du här som student kan du antingen öppna repot på MyBinder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)]()
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SEE-GEO/see110_netcdf_tutorial/HEAD?labpath=working_with_netcdf.ipynb)
 
-eller ladda ner filerna som en [zip]() om du planerar arbeta på din egen dator.
+eller ladda ner filerna som en [zip](https://github.com/SEE-GEO/see110_netcdf_tutorial/archive/refs/heads/main.zip) om du planerar arbeta på din egen dator.
 
 Du behöver ha följande python-paket installerade för att kunna följa med i instruktionerna:
 - NumPy
@@ -19,4 +19,4 @@ Du behöver ha följande python-paket installerade för att kunna följa med i i
 
 ## Rapportera fel
 
-Hittar du något du tycker verkar tokigt kan du alltid öppna ett "issue" här på Github.
+Hittar du något du tycker verkar tokigt kan du alltid öppna ett "issue" här på GitHub.
