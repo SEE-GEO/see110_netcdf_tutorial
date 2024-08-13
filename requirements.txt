@@ -4,3 +4,4 @@ jupyterlab
 xarray
 cartopy
 netcdf4
+nc-time-axis

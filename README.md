@@ -4,7 +4,7 @@ Det här är repot innehåller kursmaterial tillhörande introduktionen i att jo
 
 Är du här som student kan du antingen öppna repot på MyBinder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SEE-GEO/see110_netcdf_tutorial/HEAD?labpath=working_with_netcdf.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SEE-GEO/see110_netcdf_tutorial/HEAD?labpath=01_working_with_netcdf.ipynb)
 
 eller ladda ner filerna som en [zip](https://github.com/SEE-GEO/see110_netcdf_tutorial/archive/refs/heads/main.zip) om du planerar arbeta på din egen dator.
 
